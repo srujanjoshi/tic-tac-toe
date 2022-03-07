@@ -1,4 +1,4 @@
-# Tic-tac-toe
+# Tic-Tac-Toe ❎🅾️❎
 
 A simple Tic-Tac-Toe game coded in ReactJS.
 
@@ -7,11 +7,12 @@ A simple Tic-Tac-Toe game coded in ReactJS.
 
 
 ## Walkthrough GIF: 
-Basic Game 
-![](tic-tac-toe-demo.gif)
+### Basic Game 
+<img src="tic-tac-toe-demo.gif" width="350">
 
-Time travel 🪄
 
+### Time Travel 🪄
+<img src="tic-tac-toe-demo-time-travel.gif" width="350">
 
 
 
